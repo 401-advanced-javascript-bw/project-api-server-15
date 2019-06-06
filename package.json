@@ -1,0 +1,41 @@
+{
+  "name": "project-api-server-15",
+  "version": "1.0.0",
+  "description": "## lab-15-api-server",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cors": "^2.8.5",
+    "eslint": "^5.16.0",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "mongodb-memory-server": "^2.9.1",
+    "mongoose": "^5.4.2",
+    "mongoose-schema-jsonschema": "^1.2.1",
+    "morgan": "^1.9.1",
+    "require-directory": "^2.1.1",
+    "supertest": "^3.3.0",
+    "swagger-ui-express": "^4.0.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-bw/project-api-server-15.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-bw/project-api-server-15/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-bw/project-api-server-15#readme"
+}
